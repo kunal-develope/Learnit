@@ -1,0 +1,27 @@
+.player-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius: 12px;
+  padding: 4px 12px;
+}
+.title {
+  margin-left: 20px;
+}
+
+.player {
+  background-color: cornflowerblue;
+  display: flex;
+  flex-direction: row;
+  align-items: start;
+  padding: 4.5%;
+}
+.video-area {
+  padding-left: 130px;
+}
+.list-view {
+  display: flex;
+  flex-direction: column;
+}
